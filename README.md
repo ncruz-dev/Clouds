@@ -40,3 +40,8 @@ tips para un buen portafolio de proyectos
 ```
 https://github.com/mouredev/portafolio-template
 ```
+## AWS: 
+Emulador oficial 100% local 
+```
+https://www.linkedin.com/feed/update/urn:li:activity:7526810202499715073/
+```
