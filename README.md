@@ -44,4 +44,5 @@ https://github.com/mouredev/portafolio-template
 Emulador oficial 100% local 
 ```
 https://www.linkedin.com/feed/update/urn:li:activity:7526810202499715073/
+https://jemjaf.com/certificaciones/aws/saa-c03/
 ```
